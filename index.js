@@ -1,5 +1,5 @@
 // add solution here
-unction theBeatlesPlay(musicians, instruments) {
+function theBeatlesPlay(musicians, instruments) {
 
  var musicianInstruments = [];
 
