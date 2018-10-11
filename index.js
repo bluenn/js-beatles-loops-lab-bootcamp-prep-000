@@ -16,8 +16,10 @@ var i = 0;
 
 var newArr = [];
   while  (i < array.length) {
-    i++;
+    //i++;
+    var string =
     newArr.push(array[i] + "!!!");
+    i++;
   }
   return newArr;
 }
