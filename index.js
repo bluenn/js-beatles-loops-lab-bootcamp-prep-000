@@ -1,12 +1,12 @@
 // add solution here
-var musicianInstruments = [];
+unction theBeatlesPlay(musicians, instruments) {
+
+ var musicianInstruments = [];
 
  for(var i = 0; i < musicians.length; i++) {
   var string = musicians[i] + " plays " +  instruments[i];
-  musiciansInstruments.push(string);
+  musicianInstruments.push(string);
   }
-
- 
 
 return musicianInstruments;
 }
